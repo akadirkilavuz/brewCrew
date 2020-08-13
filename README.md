@@ -1,4 +1,4 @@
-# brew_crew
+# Brew Crew App
 
 A new Flutter project.
 
